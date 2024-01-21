@@ -31,6 +31,7 @@ header {
     margin-left: 175px;
     margin-right: 175px;
     display: flex;
+    justify-content: flex-end;
 }
 
 header img {
@@ -113,7 +114,9 @@ main {
 .btn2{
     width: 90px;
     height: 19px;
+    border-radius: 50px;
     font-family: 'Gilroy-Bold';
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
     font-size: 15px;
     line-height: 18px;
     color: #AAAAAA;
